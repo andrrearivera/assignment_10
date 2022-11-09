@@ -22,8 +22,6 @@ function showAndHide() {
   }
 }
 
-// querySelectorAll??
-
 //event two: mouse over -> image change
 const image = document.querySelector("#nice img");
 
